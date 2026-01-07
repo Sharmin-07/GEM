@@ -1,19 +1,19 @@
-At some point while studying inverse-square laws, I noticed something that felt slightly off—not physically wrong, but structurally uneven.
+While studying inverse-square laws, I noticed something that didn’t seem wrong, but felt uneven in structure.
 
-Newton’s law of gravitation and Coulomb’s law are often compared because of their similar inverse-square structure, even though they arise from very different physical contexts. We usually accept this similarity at face value. I did too, until I started paying attention to how the constants in these laws are written.
+Newton’s law of gravitation and Coulomb’s law are often said to be analogous because both follow an inverse-square dependence. This is usually accepted without much thought. I did the same, until I started looking more closely at how the constants in these laws are written.
 
-Coulomb’s law explicitly contains a  $\frac{1}{4\pi \varepsilon_0}$  factor. The appearance of  $4\pi$  feels natural there—it reflects spherical symmetry and the way a field spreads over the surface of a sphere. Geometry is visible in the equation itself.
+In Coulomb’s law, the constant appears explicitly as $\frac{1}{4\pi \varepsilon_0}$. The presence of the $4\pi r^2$ factor in the denominator of the Coulomb's law makes sense. It reflects spherical symmetry and how an electric field spreads over the surface of a sphere. The geometry is clearly visible in the equation.
 
-In Newton’s law, the same inverse-square dependence appears, but the  $4\pi$  factor is absent. Instead, everything is absorbed into a single constant, G . This raised a simple question for me: if the geometric reasoning behind both laws is the same, why does one display it openly while the other hides it?
+In Newton’s law, the same inverse-square dependence exists, but the $4\pi r^2$ factor does not appear explicitly. Everything is absorbed into a single constant, G. This raised a simple question for me: if the geometric reasoning behind both laws is the same, why does one show it clearly while the other hides it?
 
-I tried rewriting Newton’s law in a form closer to Coulomb’s law, explicitly factoring out  $4\pi$ . Doing this led naturally to a constant analogous to electric permittivity, defined as  $\varepsilon_g$ = $\frac{1}{4\pi G}$ . While aligning the two laws structurally, I arrived at a term that felt both natural and suspicious: gravitational permittivity. The idea felt weird, however, curious whether this perspective already existed, I found that it does, within a framework known as gravitoelectromagnetism (GEM), where gravitational interactions are written in close analogy with electromagnetism under certain limits. 
+To explore this, I tried rewriting Newton’s law in a form closer to Coulomb’s law by explicitly expressing G as $\frac{1}{4\pi \varepsilon_g}$. Doing this naturally leads to a quantity of the form $\varepsilon_g$, which plays a role mathematically similar to electric permittivity. Calling this “gravitational permittivity” immediately feels strange, because gravity is independent of the medium. That made it clear that this is only a formal analogy, not a physical one.
 
+Later, I found that writing gravity in an electromagnetic-like form does exist in a limited and approximate framework called gravitoelectromagnetism (GEM). This confirmed that the analogy itself is not new, but also that it has strict physical limits.
 
-What interested me most was not the analogy itself, but what it reveals: the way we write physical laws can either expose or conceal their geometric content. Two equations can describe similar physics, yet invite very different ways of thinking simply because of how their constants are arranged.
+What interested me was not GEM itself, but what this comparison shows about structure. The way we write physical laws can highlight or hide their geometric content. Two laws can have the same mathematical behaviour, yet feel very different simply because of how their constants are arranged.
 
+This write-up came from that observation. The goal was not to introduce a new concept, but to make the structure of Newton’s law as explicit as that of Coulomb’s law, and to understand what is clarified — and what is lost — by doing so.
 
-This exploration grew out of that curiosity—the idea that form matters, and that looking closely at it can change how familiar laws feel. The point was not to introduce something new, but to see what becomes clearer when the structure is made explicit.
-
-NOTE- This write-up is not an exploration of GEM itself. It is an attempt to make the structure of Newton’s law as transparent as that of Coulomb’s law, and to understand what is gained or obscured by the way we choose to write physical constants. I couldn't think of a better name for this repo, so I just ended up naming it GEM.
+Note- This repository is not an exploration of gravitoelectromagnetism as a theory. The name is only used because the analogy naturally appears during this comparison, and I could not think of a better title.
 
 
