@@ -12,8 +12,9 @@ Later, I found that writing gravity in an electromagnetic-like form does exist i
 
 What interested me was not GEM itself, but what this comparison shows about structure. The way we write physical laws can highlight or hide their geometric content. Two laws can have the same mathematical behaviour, yet feel very different simply because of how their constants are arranged.
 
-This write-up came from that observation. The goal was not to introduce a new concept, but to make the structure of Newton’s law as explicit as that of Coulomb’s law, and to understand what is clarified — and what is lost — by doing so.
+This write-up came from that observation. The goal was not to introduce a new concept, but to make the structure of Newton’s law as explicit as that of Coulomb’s law, and to understand what happens if we make them completely analogous by structure.
 
 Note- This repository is not an exploration of gravitoelectromagnetism as a theory. The name is only used because the analogy naturally appears during this comparison, and I could not think of a better title.
+
 
 
