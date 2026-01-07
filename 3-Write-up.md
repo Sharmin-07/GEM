@@ -1,4 +1,4 @@
-Long Version:
+# Long Version:
 
 
 According to Newton’s law, the gravitational force between two bodies having masses $m_1$ and $m_2$, separated by a distance r, is given by $G\frac{m_1 m_2}{r^2}$.
@@ -26,7 +26,7 @@ Why does this happen? How did we reach a conclusion that seems to suggest the ex
 
 Mathematical structures or equations often suggest realities that haven’t been observed yet. Because, again, the algebra doesn’t know physics. These help us understand the physics, even if some concepts don’t exist in reality. However, equations are one of the most beautiful ways to represent nature in a form that can be studied. I believe that.
 
-Short version:
+# Short version:
 
 
 Newton’s law of gravitation and Coulomb’s law both show an inverse-square dependence on distance. This happens because a mass or charge produces a fixed amount of influence in space.
@@ -34,6 +34,7 @@ Newton’s law of gravitation and Coulomb’s law both show an inverse-square de
 Think of a point mass or charge. It creates field lines that spread out uniformly in all directions. The total number of these field lines depends only on how much mass or charge there is, so it stays constant. All points at a distance r from the source form a sphere of radius r. As you move farther away, the same number of field lines has to spread over the surface of a larger sphere. Since the surface area increases as  $r^2$ , the influence per point decreases as $1/r^2$ . This is why both forces follow an inverse-square law.
 
 Coulomb’s law includes a permittivity term because electric fields interact with matter: charges in a medium rearrange and reduce the net field. Gravity does not behave this way. Mass cannot rearrange to oppose a gravitational field, so gravitational force remains independent of the medium. This is why Newton’s law lacks a corresponding term, even though its mathematical form resembles Coulomb’s law.
+
 
 
 
