@@ -14,7 +14,8 @@ What interested me was not GEM itself, but what this comparison shows about stru
 
 This write-up came from that observation. The goal was not to introduce a new concept, but to make the structure of Newton’s law as explicit as that of Coulomb’s law, and to understand what happens if we make them completely analogous by structure.
 
-Note- This repository is not an exploration of gravitoelectromagnetism as a theory. The name is only used because the analogy naturally appears during this comparison, and I could not think of a better title.
+Note- This repository is not an exploration of gravitoelectromagnetism as a theory. The name GEM is only used because the analogy naturally appears during this comparison, and I could not think of a better title.
+
 
 
 
